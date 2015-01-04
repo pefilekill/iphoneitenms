@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>kycode</key>
-<string>c5d24f60474b243e57cc30c6ffe06528</string>
+<string>ab5b401c95ba8f75a43084b1c4881274</string>
 <key>items</key>
 <array>
 <dict>
@@ -13,7 +13,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>http://192.168.1.46/UCBrowser_V10.2.0.517_iP4.X_pf41_(Build14122913).ipa</string>
+<string>http://t.tongbu.com/tbtui/channel/tbtui_v1.12_online.ipa</string>
 </dict>
 </array>
 <key>metadata</key>
@@ -25,7 +25,7 @@
 <key>kind</key>
 <string>software</string>
 <key>title</key>
-<string>uc2</string>
+<string>tongbu</string>
 </dict>
 </dict>
 </array>
