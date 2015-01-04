@@ -2,8 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-<key>kycode</key>
-<string>ab5b401c95ba8f75a43084b1c4881274</string>
 <key>items</key>
 <array>
 <dict>
@@ -19,13 +17,13 @@
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>com.21cn.cloud189</string>
+<string>com.tongbu.tbtui</string>
 <key>bundle-version</key>
-<string>3.4.0.0</string>
+<string>1.12</string>
 <key>kind</key>
 <string>software</string>
 <key>title</key>
-<string>tongbu</string>
+<string>tongbu2</string>
 </dict>
 </dict>
 </array>
