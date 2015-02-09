@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://wap.uc.cn/iphone/iTunesArtWork</string>
+					<string>http://img.haima.me/images/freeapp/hmge/icon/icon114a.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,19 +27,21 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://wap.uc.cn/iphone/icon.png</string>
+					<string>http://img.haima.me/images/freeapp/hmge/icon/icon512a.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ucweb.iphone</string>
+				<string>com.shengwu.belt</string>
 				<key>bundle-version</key>
-				<string>8.9.0.238</string>
+				<string>3.0.2</string>
 				<key>kind</key>
 				<string>software</string>
+				<key>subtitle</key>
+				<string>海马苹果助手</string>
 				<key>title</key>
-				<string>海马_1</string>
+				<string>海马苹果助手--不用越狱，极速免费装应用的果粉神器</string>
 			</dict>
 		</dict>
 	</array>
